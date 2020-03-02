@@ -13,4 +13,5 @@ yarn add expo-cli
 yarn add prop-types
 yarn add react-native
 yarn add @expo/vector-icons
+yarn add redux react-redux
 ```
