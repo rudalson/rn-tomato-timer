@@ -6,3 +6,11 @@
 ```shell script
 expo init rn-tomato-timer
 ```
+
+## Install Packages
+```shell script
+yarn add expo-cli
+yarn add prop-types
+yarn add react-native
+yarn add @expo/vector-icons
+```
